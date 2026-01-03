@@ -1,5 +1,3 @@
----
-
 ## 📚 Resources
 
 All learning materials used during the workshop are available here:
@@ -14,6 +12,6 @@ You can revisit this repository anytime to refresh your knowledge.
 
 ## 🤝 How to Contribute
 
-Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a Pull Request.
+Please read [`CONTRIBUTION.md`](Exam rules and how to Contribute.md) before submitting a Pull Request.
 
 ---
