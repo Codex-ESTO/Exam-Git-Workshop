@@ -2,9 +2,9 @@
 
 All learning materials used during the workshop are available here:
 
-- [`resources/TP_GitGithub_Codex.pdf`](resources/TP_GitGithub_Codex.pdf)
-- [`resources/git-Cheatsheet.pdf`](resources/git-Cheatsheet.pdf)
-- [`resources/Exemple-de-Correction.pdf`](resources/Exemple-de-Correction.pdf)
+- [`Ressources/TP_GitGithub_Codex.pdf`](Ressources/TP_GitGithub_Codex.pdf)
+- [`Ressources/git-Cheatsheet.pdf`](Ressources/git-Cheatsheet.pdf)
+- [`Ressources/Exemple-de-Correction.pdf`](Ressources/Exemple-de-Correction.pdf)
 
 You can revisit this repository anytime to refresh your knowledge.
 
@@ -12,6 +12,7 @@ You can revisit this repository anytime to refresh your knowledge.
 
 ## 🤝 How to Contribute
 
-Please read [`CONTRIBUTION.md`](Exam rules and how to Contribute.md) before submitting a Pull Request.
+Before submitting a Pull Request, please read  
+[`CONTRIBUTING.md`](CONTRIBUTING.md) to learn about the exam rules and contribution guidelines.
 
 ---
