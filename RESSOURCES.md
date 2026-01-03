@@ -13,6 +13,6 @@ You can revisit this repository anytime to refresh your knowledge.
 ## 🤝 How to Contribute
 
 Before submitting a Pull Request, please read  
-[`CONTRIBUTING.md`](CONTRIBUTING.md) to learn about the exam rules and contribution guidelines.
+[`CONTRIBUTION.md`](CONTRIBUTION.md) to learn about the exam rules and contribution guidelines.
 
 ---
