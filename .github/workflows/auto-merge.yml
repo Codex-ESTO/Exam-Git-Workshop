@@ -16,9 +16,6 @@ jobs:
       # 1️⃣ Checkout the PR branch
       - name: Checkout PR branch
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
-          fetch-depth: 0
 
       # 2️⃣ Get the list of all changed files
       - name: Get changed files
